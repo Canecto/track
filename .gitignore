@@ -1,0 +1,5 @@
+# excape compiled files
+*.pyc
+
+# pycharm
+.idea/
